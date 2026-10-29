@@ -8,9 +8,9 @@ This project documents the setup of a cybersecurity testing lab using Oracle Vir
 
 ### 2. Lab Environment
 
-- **Host operating system:** Windows (version to be confirmed)
+- **Host operating system:** Windows 
 - **Virtualization platform:** Oracle VirtualBox
-- **Guest operating system:** Kali Linux (version to be confirmed)
+- **Guest operating system:** Kali Linux 
 - **NAT Network subnet:** `10.0.0.0/24`
 - **Kali Linux IPv4 address:** `10.0.0.2/24`
 - **Gateway tested:** `10.0.0.1`
